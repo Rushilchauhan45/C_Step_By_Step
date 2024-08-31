@@ -1,0 +1,46 @@
+
+             (Preprocesser) (Library Keyword)   (Library)
+                    #           include          <stdio.h>    
+
+==>Library (def):Library Such As Collection of multiple functions and keyword.......
+==> # (Preprocesser) :  Preprocesser such as Bridge Who Connect Library/keyword to C Program.... 
+==> Include : Attech Library in the our Program....
+
+
+*The Basic Syntax Of Fuction in Collection
+------------------------------------------
+
+Return_type  Name_of_the_function()
+{
+    //code executable
+}
+
+
+*Types of Return Type:
+-----------------------
+void --> nothing Return 
+int  --> Return integer
+float --> Return float
+String/char --> Return character
+double --> Return double
+Boolen --> Return boolean (0/1) or (True/False)
+
+
+*Printing Ways of Data_Types:
+------------------------------
+Printf(); function thurew
+
+int -->  %d 
+float --> %f
+double --> %lf
+char --> %c
+String --> %s
+
+\n --> It's Use For Print New Line  
+\t --> It's Use For Print tab space 
+
+
+
+
+
+       
