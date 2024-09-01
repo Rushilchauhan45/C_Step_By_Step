@@ -40,6 +40,13 @@ String --> %s
 \t --> It's Use For Print tab space 
 
 
+-------------------
+BASIC i/o functions
+--------------------
+printf(); --> print the line/String on console
+scanf(); --> To get value from console and give OP On Console
+
+
 
 
 

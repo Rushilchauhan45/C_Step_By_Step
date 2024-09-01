@@ -1,0 +1,148 @@
+
+[Introduction to C Programming]
+-------------------------------------
+
+Developer of C : Denis Ritchie 
+Developing year : 1992s
+Developing Place: Bell lab(us)
+
+--> C is the mother of programming....
+--> C is the 1st Successfully Integrated programming language...
+
+
+[Uses of C :](C++,JAVA, Python , Rust, Ruby, Arduino UNO )
+
+EC: C , C++ , Python , PHP
+--------------------------------
+-->C is Power full basic level programming...
+-->C low level programming....
+-->C has More Key features.... 
+-->C has Library Support....
+
+-------------------------------------------
+[Basic Key features to understand C :]
+-------------------------------------------
+
+(1) Simplicity : Simple to understand 
+(2) Portability : Simple/Easy to Write 
+(3) Performance of Efficiency : Performance used in high level machine....because of Efficiency in high...
+(4) Rich Library Support : Collection of multiple functionality.....
+(5) Memory management : RAM(Stack)...
+(6) Structured lang : Multiple (functions/keyword/datatypes/pointers) Arranging Structure Wise.....
+(7) Recursion : Function Calling By It Self....
+
+
+[Keywords Of C :]
+----------------------
+-->There are 32 Keywords In C.....
+auto
+break
+case
+char
+const
+continue
+default
+do
+double
+else
+enum
+extern
+float
+for
+goto
+if
+int
+long
+register
+return
+short
+signed
+sizeof
+static
+struct
+switch
+typedef
+union
+unsigned
+void
+volatile
+while
+
+
+[Data types in C:]
+--------------------
+
+Def : Datatype is the Big Container , who Stores Multiple Variables ...
+
+[1] Basic Datatype
+[2] Derived Datatype
+[3] Empty Datatype
+[4] Modifiers
+----------------------
+1 byte ---> 8 bit
+----------------------
+[1] Basic Datatype:-
+----------------------
+
+[*int]
+-----
+-->int Datatype used for store decimal values..(ex.,-2,-1,0,1,2)
+-->TURBO C-->2bytes
+-->Vs Code-->4 bytes(gcc compiler)
+
+
+Range of int:
+---------------
+n=number of bits
+
+formula : -2^(n-1) to 2^(n-1)-1
+
+ex.,  -2^15 to 2^14
+
+
+[*float]
+--------
+-->float Datatype used for store pointing values...(ex.,-1.2,-1.1,0,1.1,1.2..)
+-->TURBO C-->4 bytes
+-->Vs Code --->8 bytes
+
+[*char]
+--------
+-->char Datatype used to store character values....(ex., A , B , C , D)
+-->TURBO C-->1 bytes
+-->Vs Code-->1 bytes
+
+[*double]
+-----------
+-->double datatype used to store floating and integers type of values....(ex., -2.2,-2,-1.2,-1,0,1,1.2,....)
+-->TURBO C -->8 bytes
+-->Vs Code--> 8 bytes
+
+
+---------------------------
+[2]Derived Datatype:-
+---------------------------
+
+(1)Array
+(2)Structure
+(3)Pointer
+(4)Union
+--------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,59 @@
+[Data types in C:]
+--------------------
+
+Def : Datatype is the Big Container , who Stores Multiple Variables ...
+
+[1] Basic Datatype
+[2] Derived Datatype
+[3] Empty Datatype
+[4] Modifiers
+----------------------
+1 byte ---> 8 bit
+----------------------
+[1] Basic Datatype:-
+----------------------
+
+[*int]
+-----
+-->int Datatype used for store decimal values..(ex.,-2,-1,0,1,2)
+-->TURBO C-->2bytes
+-->Vs Code-->4 bytes(gcc compiler)
+
+
+Range of int:
+---------------
+n=number of bits
+
+formula : -2^(n-1) to 2^(n-1)-1
+
+ex.,  -2^15 to 2^14
+
+
+[*float]
+--------
+-->float Datatype used for store pointing values...(ex.,-1.2,-1.1,0,1.1,1.2..)
+-->TURBO C-->4 bytes
+-->Vs Code --->8 bytes
+
+[*char]
+--------
+-->char Datatype used to store character values....(ex., A , B , C , D)
+-->TURBO C-->1 bytes
+-->Vs Code-->1 bytes
+
+[*double]
+-----------
+-->double datatype used to store floating and integers type of values....(ex., -2.2,-2,-1.2,-1,0,1,1.2,....)
+-->TURBO C -->8 bytes
+-->Vs Code--> 8 bytes
+
+
+---------------------------
+[2]Derived Datatype:-
+---------------------------
+
+(1)Array
+(2)Structure
+(3)Pointer
+(4)Union
+--------------
