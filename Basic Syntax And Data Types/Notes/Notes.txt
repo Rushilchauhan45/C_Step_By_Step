@@ -7,6 +7,19 @@
 ==> Include : Attech Library in the our Program....
 
 
+[Comments In C:]
+----------------
+-->Comments part is not execute by Compiler....Means Comment Part isn Avlided By Compiler..
+
+1 types
+--------
+//  (Single line Comment)
+/*
+    //executable lines 
+    //Multi-line Comment
+
+*/
+
 *The Basic Syntax Of Fuction in Collection
 ------------------------------------------
 
@@ -43,7 +56,7 @@ String --> %s
 -------------------
 BASIC i/o functions
 --------------------
-printf(); --> print the line/String on console
+printf(); --> print the line/String on Output console
 scanf(); --> To get value from console and give OP On Console
 
 

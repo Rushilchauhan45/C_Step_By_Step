@@ -3,19 +3,23 @@
 void main()
 {
     //variable declaration
-    int  a , b ,c ,d;
+    int a, b;
+    int add , sub , mul ,div,mod;
+    
 
-    printf("Enter the values of a and b :");
+    printf("Enter the value of a and b :");
+    scanf("%f \n %f",&a,&b);
 
-    printf("%d\n",a);
-    printf("%d\n",b);
-    printf("%d\n",c);
-    printf("%d\n",d); //1st way 
-    scanf("%d\t%d", &a,&b); //Horiszontal
+    add = a + b;
+    sub = a - b;
+    mul = a * b;
+    div = a / b;
+    mod = a % b;
 
-    //2nd way
-    printf("Enter the values of c and d :");
-    scanf("%d\n%d",&c,&d); 
-    //vertical
-   
+    printf("\nAddition : %d",add);
+    printf("\nSubtraction : %d",sub);
+    printf("\nMultiplication : %d",mul);
+    printf("\nDivision : %.2f",div);
+    printf("\nModule : %d",mod);
+
 }
