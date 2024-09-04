@@ -11,32 +11,36 @@ void main()
 
     //logical Operators : AND (&&) , OR (||) , NOT (!)
     //OR 
-    if( a > 10 || a == b || b < 10)
+    if(a > b || a == b || a == 10)
     {
-        printf("\n\nfrom 3 One Condition is True...");
+        //true (1)
+        printf("\n\nFrom 2 is One condtion is true....");
     }else
     {
-        printf("\n\nAll Conditions is False...");
-
+        //False (0)
+        printf("\n\nFrom 2 is One condtion is true....");
     }
 
     //AND
-    if(a > 10  &&  a == b)
+    if(a > b && a == 12)
     {
-        printf("\n\nAll Conditions is true...");
+        //true (1)
+        printf("\n\nAll Conditions Is True....");
     }else
     {
-        printf("\n\nFrom 2 one is False...");
+        //false (0)
+        printf("\n\nAll condition is False....");
     }
 
     //NOT
-    if(!(a > b))
+    if( !(a > b))
     {
-        printf("\n\n a is Smaller than b (flase)..");
+        //true(1)
+        printf("\n\n a is Bigger than b ...(false)");
     }else
     {
-        printf("\n\na Greater than b(flase)...");
-
+        //false (0)
+        printf("\n\n a is Not Bigger than b ....(True)");
     }
 
 }//end of main function
