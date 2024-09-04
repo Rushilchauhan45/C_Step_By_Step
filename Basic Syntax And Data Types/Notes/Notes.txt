@@ -1,5 +1,5 @@
 
-             (Preprocesser) (Library Keyword)   (Library)
+             (Preprocesser) (Library)      (Header file)
                     #           include          <stdio.h>    
 
 ==>Library (def):Library Such As Collection of multiple functions and keyword.......
