@@ -1,5 +1,5 @@
 
-             (Preprocesser) (Library Keyword)   (Library)
+             (Preprocesser) (Library)      (Header file)
                     #           include          <stdio.h>    
 
 ==>Library (def):Library Such As Collection of multiple functions and keyword.......
@@ -9,7 +9,7 @@
 
 [Comments In C:]
 ----------------
--->Comments part is not execute by Compiler....Means Comment Part isn Avoided By Compiler..
+-->Comments part is not execute by Compiler....Means Comment Part isn Avlided By Compiler..
 
 1 types
 --------

@@ -11,11 +11,18 @@ void main()
     
     // a =10;
     a += 5; // a = 15
+    printf("Value : %d",a);
+    
     a -= 2; // a = 13
+    printf("Value : %d",a);
+    
     a *= 20; // a = 260
+    printf("Value : %d",a);
+    
     a /= 5; // a = 52
+    printf("Value : %d",a);
+    
     a %= 3; // a = 1 
-
     printf("Value : %d",a);
 
 }
