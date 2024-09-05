@@ -3,8 +3,8 @@
 -------------------------------------
 
 Developer of C : Denis Ritchie 
-Developing year : 1992s
-Developing Place: Bell lab(us)
+Developing year : 1972s
+Developing Place: Bell lab(US)
 
 --> C is the mother of programming....
 --> C is the 1st Successfully Integrated programming language...

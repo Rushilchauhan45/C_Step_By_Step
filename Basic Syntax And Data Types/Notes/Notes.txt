@@ -9,11 +9,14 @@
 
 [Comments In C:]
 ----------------
--->Comments part is not execute by Compiler....Means Comment Part isn Avlided By Compiler..
+-->Comments part is not execute by Compiler....Means Comment Part isn Avoided By Compiler..
 
 1 types
 --------
 //  (Single line Comment)
+
+2 type
+-------
 /*
     //executable lines 
     //Multi-line Comment
