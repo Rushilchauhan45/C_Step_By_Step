@@ -22,6 +22,8 @@ void main()
         .
         case n://executable part
         break;
+
+        default://if user input out of cases than run default case
     
     }
     */
