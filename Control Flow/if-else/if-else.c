@@ -45,7 +45,6 @@ void main()
     if(a>0)
         //one line of code..
         printf("%d is Positive",a);
-
     else
         //one line of code..
         printf("%d is Negative",a);
