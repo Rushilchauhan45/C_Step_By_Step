@@ -44,7 +44,7 @@ void main()
         printf("Grade: D");
     }else
     {
-        printf("Stident is Fail...");
+        printf("Student is Fail...");
     }
 
 
