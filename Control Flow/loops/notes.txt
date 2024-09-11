@@ -1,0 +1,37 @@
+-->Loops : Loop Execute Lines of Code for Multiple time as you want...                                    
+                                   
+                                    [LOOPS]
+                                        |
+                       -----------------------------------
+                       |                |                |
+                      for             while            do while
+
+[(1)-->for]
+------------
+Common Parts of every loop --> (intialize) , (condition) , (increament/decrement)
+
+//sysntax of for Loop
+[type 1]
+
+for(//intialize ; //condition ; // increament/decrement )
+{
+    //lines of code
+}
+
+[type 2]
+
+//intialize
+for(   ; //condition ; // increament/decrement )
+{
+    //lines of code
+}
+
+[type 3]
+
+//intialize
+for(   ; //condition ; )
+{
+    //lines of code
+    // increament/decrement 
+}
+

@@ -1,6 +1,7 @@
 //Simple Calculator Using with Switch case
 #include<stdio.h>
 #include<math.h>
+#include<process.h>
 
 void main()
 {
@@ -9,6 +10,7 @@ void main()
     float add ,sub, mul, div ,squareroot,square;
     float a,b;
 
+   
     printf("\n----------------------------");
     printf("\n         Calculator");
     printf("\n----------------------------");
@@ -18,6 +20,7 @@ void main()
     printf("\n4--->Divison");
     printf("\n5--->Square root");
     printf("\n6--->Square");
+    printf("\n7--->Exit");
     printf("\nEnter the choice:");
     scanf("%d",&choice);
 
@@ -67,13 +70,9 @@ void main()
                 printf("Square :%.2f",square);
         break;
 
+        case 7:exit(0);
+
         default:printf("\nEnter the valid choice..."); 
-    }
-
-
-
-
-
-
+    }//end of switch
 
 }//end of main
