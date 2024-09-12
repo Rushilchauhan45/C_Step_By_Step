@@ -6,9 +6,11 @@
                        |                |                |
                       for             while            do while
 
-[(1)-->for]
-------------
 Common Parts of every loop --> (intialize) , (condition) , (increament/decrement)
+
+------------
+| FOR LOOP |
+------------
 
 //sysntax of for Loop
 [type 1]
@@ -34,4 +36,14 @@ for(   ; //condition ; )
     //lines of code
     // increament/decrement 
 }
+
+------------
+Advantages:
+------------
+
+-->Compact sysntax: Comibine intialization ,Comdition-Checking , Itreation In One Line.. 
+-->Better Readibility : it's sysntax is Better to Understand..
+-->Flexibility : You Can Control Loop Execution with Break and Continue Statement..
+
+
 
