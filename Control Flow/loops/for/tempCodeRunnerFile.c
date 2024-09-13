@@ -1,1 +1,1 @@
-rintf("Sum : %d\n",sum);
+-i);k>=0;k
