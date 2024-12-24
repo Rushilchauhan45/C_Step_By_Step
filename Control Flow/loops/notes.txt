@@ -1,5 +1,5 @@
 -->Loops : Loop Execute Lines of Code for Multiple time as you want...                                    
-                                   
+                                  
                                     [LOOPS]
                                         |
                        -----------------------------------
@@ -15,9 +15,9 @@ Common Parts of every loop --> (intialize) , (condition) , (increament/decrement
 //sysntax of for Loop
 [type 1]
 
-for(//intialize ; //condition ; // increament/decrement )
+for(//Initialization; //condition  ; //increament/decrement  ) 
 {
-    //lines of code
+    //Executable Part
 }
 
 [type 2]

@@ -6,7 +6,7 @@ void main()
     int a=2;
     int result;
 
-    //Increament Operator
+    //Increament Operator       
     /*
     Syntax --> ++variable; (Pre Increament)
            --> Variable++; (Post Increament)  

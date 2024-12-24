@@ -3,23 +3,25 @@
 void main()
 {
     //variable declaration
-    int a, b;
-    int add , sub , mul ,div,mod;
+    float a, b;
+    float add , sub , mul , div , modulo;
     
-
+    /*
+    Arithmetic Operators : + , - , * , / , %
+    */
     printf("Enter the value of a and b :");
-    scanf("%f \n %f",&a,&b);
+    scanf("%f %f" ,&a , &b );
 
     add = a + b;
     sub = a - b;
     mul = a * b;
     div = a / b;
-    mod = a % b;
+    //modulo = a % b;
 
-    printf("\nAddition : %d",add);
-    printf("\nSubtraction : %d",sub);
-    printf("\nMultiplication : %d",mul);
+    printf("\nAddition : %.2f",add);
+    printf("\nSubtraction : %.2f",sub);
+    printf("\nMultiplication : %.2f",mul);
     printf("\nDivision : %.2f",div);
-    printf("\nModule : %d",mod);
+    printf("\nModule : %.2f",modulo);
 
 }

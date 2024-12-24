@@ -15,7 +15,7 @@ void main()
         if(Condition)
         {
             //Executable part
-            break;
+            
         }else
         {
             //Executable part
@@ -23,14 +23,14 @@ void main()
     */
     
 
-   if(a > b)
+   if(a == b)
    {
         //true (1)
-        printf("\n\n %d is Bigger than %d....",a,b);
+        printf("\n\n %d equal to %d....",a,b);
    }else
    {
         //false (0)
-        printf("\n\n %d is Smaller than %d....",a,b);
+        printf("\n\n %d Not equal to %d....",a,b);
 
    }
 

@@ -48,7 +48,7 @@ Printf(); function thurew
 
 int -->  %d 
 float --> %f
-double --> %lf
+double --> %lf (long float)
 char --> %c
 String --> %s
 

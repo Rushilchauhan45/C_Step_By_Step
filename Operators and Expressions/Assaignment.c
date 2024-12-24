@@ -10,7 +10,7 @@ void main()
     // Asigning Value (Right to Left)
     
     // a =10;
-    a += 5; // a = 15
+    a += 5; // a = 15 (Override)
     printf("Value : %d",a);
     
     a -= 2; // a = 13

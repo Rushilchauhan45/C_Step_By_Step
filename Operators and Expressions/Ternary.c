@@ -17,6 +17,23 @@ void main()
     printf("Enter the value of the a and b :");
     scanf("%d \n %d", &a, &b);
     
+    /*
+    Syntax:
+    (Cndition) ? [if]  //executable part  : [else] //Executable part ;
+    Two main parts : ? , :
+    */
+
+    /*
+    if(condition)
+    {
+        //executable part
+    }else
+    {
+        //executable part
+    }
+    */
+    
+    
     //Opertaion Using with Ternary Operator
     ((a > b) ? printf("\n%d is Bigger..",a) : printf("\n%d is Bigger..",b));
 

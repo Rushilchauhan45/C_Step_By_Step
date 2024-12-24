@@ -1,0 +1,20 @@
+[What is the Operators , Operands and Operation ]
+
+[Operands   ----- Operators -------- Operands ]---->Operation 
+
+Operands : It is a such as elements Who perform Specific operations...
+Operators : It is the Symbole , who Use To peform Specific operations...
+Operation : It is the Result of Specific Work of Operators who perform on Oprands...
+
+
+[Types of Operators]
+--------------------
+1> Arithmetic
+2> Assaignment 
+3> Bitwise 
+4> Increment / Decrement 
+5> Logical 
+6> Relational 
+7> Ternary
+8> Shifting Operators 
+

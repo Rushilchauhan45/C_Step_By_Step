@@ -40,6 +40,6 @@ void main()
     */
 
     //Convert Nested If-else into Nested Ternary Operator
-    ((a>b)? (a>c)? printf("\n%d is Bigger..",a):printf("\n%d is Bigger",c): (b>c)? printf("\n%d is Bigger",b): printf("\n%d is Bigger",c));
+    ((a > b) ? (a > c) ? printf("%d is Bigger All..",a) : printf("%d is Bigger All",c) : (b > c ) ? printf("%d is Bigger All",b) : printf("%d is Bigger All",c));
 
 }//end of main function

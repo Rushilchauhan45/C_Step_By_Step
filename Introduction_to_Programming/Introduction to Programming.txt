@@ -9,11 +9,10 @@ Developing Place: Bell lab(US)
 --> C is the mother of programming....
 --> C is the 1st Successfully Integrated programming language...
 
-
 [Uses of C :](C++,JAVA, Python , Rust, Ruby, Arduino UNO )
 
-EC: C , C++ , Python , PHP
---------------------------------
+EC: C , C++ , Python , PHP , Arduino UNO
+----------------------------------------
 -->C is Power full basic level programming...
 -->C low level programming....
 -->C has More Key features.... 
@@ -87,7 +86,7 @@ Def : Datatype is the Big Container , who Stores Multiple Variables ...
 [*int]
 -----
 -->int Datatype used for store decimal values..(ex.,-2,-1,0,1,2)
--->TURBO C-->2bytes
+-->TURBO C-->2 bytes
 -->Vs Code-->4 bytes(gcc compiler)
 
 
@@ -118,6 +117,10 @@ ex.,  -2^15 to 2^14
 -->TURBO C -->8 bytes
 -->Vs Code--> 8 bytes
 
+[*Keyword : Long]
+--------------------
+
+--> Long Keyword Provide us 2 bytes extra memory ...(ex., long int(6 bytes), long float(10 bytes)...)
 
 ---------------------------
 [2]Derived Datatype:-

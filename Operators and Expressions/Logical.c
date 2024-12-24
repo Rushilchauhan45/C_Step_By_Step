@@ -10,6 +10,7 @@ void main()
     scanf("%d \n %d", &a, &b);
 
     //logical Operators : AND (&&) , OR (||) , NOT (!)
+    
     //OR 
     if(a > b || a == b || a == 10)
     {
