@@ -17,12 +17,12 @@ Common Parts of every loop --> (intialize) , (condition) , (increament/decrement
 
 for(//Initialization; //condition  ; //increament/decrement  ) 
 {
-    //Executable Part
+    //Lines of code 
 }
 
 [type 2]
 
-//intialize
+//intialize;
 for(   ; //condition ; // increament/decrement )
 {
     //lines of code
@@ -34,14 +34,14 @@ for(   ; //condition ; // increament/decrement )
 for(   ; //condition ; )
 {
     //lines of code
-    // increament/decrement 
+    // increament/decrement ;
 }
 
 ------------
 Advantages:
 ------------
 
--->Compact sysntax: Comibine intialization ,Comdition-Checking , Itreation In One Line.. 
+-->Compact sysntax: Comibine intialization ,Condition-Checking , Itreation In One Line.. 
 -->Better Readibility : it's sysntax is Better to Understand..
 -->Flexibility : You Can Control Loop Execution with Break and Continue Statement..
 

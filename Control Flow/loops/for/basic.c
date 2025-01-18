@@ -13,7 +13,7 @@ void  main()
         //lines of code
     }
     */
-    for(i =0 ; i < 10 ; i++)
+    for(i =1; i <= 10 ; i++)
     {
         printf("\nLoop Execution :%d",i);
     }
@@ -27,8 +27,9 @@ void  main()
         //lines of code
     }
     */
-    i =0; 
-    for(; i < 10 ; i++)
+
+    i =1; 
+    for(; i <= 10 ; i++)
     {
         printf("\nLoop Execution :%d",i);
     }
@@ -42,15 +43,15 @@ void  main()
         //lines of code
         // increament/decrement 
     }
-
     */
-    i =0; 
-    for(; i < 10 ;)
+
+    i =1; 
+    for(; i <= 10 ;)
     {
         printf("\nLoop Execution :%d",i);
-         i++;
+        i++;
     }
-
+    
     
 
 }//end of main

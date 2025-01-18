@@ -10,30 +10,30 @@ void main()
           i = row
           j = column
 
-             i i i      
-          j  * * * 
-          j  * * *  
-          j  * * * 
+             j j J      
+          i  * * * 
+          i  * * *  
+          i  * * * 
 
     */
 
-    for(i=1;i<=3;i++)
+    for(i=1;i<=5;i++)//printing rows
     {
-        for(j=1;j<=3;j++)
-        {
+        for(j=1;j<=5;j++)//printing columns
+        {   
             printf("* ");
         }//inner for loop
-        printf("\n");
+    printf("\n");
     }//outer for loop
-    
-    /*
+
+   /*
           i = row
           j = column
 
-             i i i i i i i      
-          j  * * * * * * *
-          j  * * * * * * * 
-          j  * * * * * * *
+             j j j j j j j     
+          i  * * * * * * *
+          i  * * * * * * * 
+          i  * * * * * * *
 
     */
 
@@ -79,10 +79,10 @@ void main()
          j * * * *
          j * * * 
          j * *
-         k *
+         j *
           
+   
     */
-
     printf("\n");
     for(i=5;i>=1;i--)
     {
@@ -92,5 +92,5 @@ void main()
         }//inner for loop
         printf("\n");
     }//outer for loop
-    
+     
 }//end of main
