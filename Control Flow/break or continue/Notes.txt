@@ -1,0 +1,14 @@
+                    ----------------------------------------
+                    |    Code Execution Handling Statement |
+                    ----------------------------------------
+                                       |
+                              --------------------
+                              |                  |
+                            Break              Continue
+---------
+| Break |
+---------
+
+-->Break Statement is used to immediately exit from loop or any other Execution Block....
+-->when the break is execute , then the program  jump out of the loop and executing the code after the loop... 
+

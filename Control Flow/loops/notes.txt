@@ -46,4 +46,64 @@ Advantages:
 -->Flexibility : You Can Control Loop Execution with Break and Continue Statement..
 
 
+--------------
+| While LOOP |
+--------------
+
+//Syantax [1]
+
+//Initialization
+while(//condition)
+{
+    //Executable code
+    //increament/decrement
+}
+
+//Syantax [2]
+//While Infinite
+
+while(1)
+{
+    //Executable code
+}
+
+------------
+Advantages:
+------------
+
+Simplacity:Syntax easy to understand and simple to Execute
+Flexible Condition:All Types of Conditions is valid
+
+
+----------------
+|  do While    |
+----------------
+
+//Syntax [1]
+
+//Initialization
+do
+{
+    //Executable code
+    //increament/decrement
+
+}while(//condition);
+
+
+------------
+Advantages:
+------------
+
+Simplacity:Syntax easy to understand and simple to Execute
+Flexible Condition:All Types of Conditions is valid
+Code Execution:it execute code first after checks condition
+Code Runability: If Condition is false on first time ,then loop execute atlist One Time 
+
+
+
+
+
+
+
+
 

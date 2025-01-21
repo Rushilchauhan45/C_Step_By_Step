@@ -10,7 +10,9 @@ void main()
     float add ,sub, mul, div ,squareroot,square;
     float a,b;
 
-   
+   while(1)
+   {
+
     printf("\n----------------------------");
     printf("\n         Calculator");
     printf("\n----------------------------");
@@ -74,5 +76,5 @@ void main()
 
         default:printf("\nEnter the valid choice..."); 
     }//end of switch
-
+    }//end of while
 }//end of main
