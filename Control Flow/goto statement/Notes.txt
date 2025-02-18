@@ -1,0 +1,20 @@
+|-----------------------------To Understands  'Go to Statement'--------------------------------|
+
+Syntax :
+--------
+
+goto label;
+.
+.
+.
+.
+lable:
+   //executable code
+
+
+Advantages:
+-----------
+
+--> Can Exit from Deeply nested Conditions/blocks easily.... 
+--> Using with goto statement we can move at the any block of code in our program....
+--> it's Improve Low-level programming.....
