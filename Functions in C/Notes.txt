@@ -1,0 +1,49 @@
+Definition: A Funtion is User-Defined Block Of Code that Performs A Specific Task.[IMPORTANT]                                 
+                                  
+                                  -----------------------------
+                                  |       Functions           |
+                                  -----------------------------
+                                               |
+              --------------------------------------------------------------------------
+              |                    |                         |                         |
+             NANR                 WANR                      NAWR                      WAWR
+
+[CRUD --: Create , Read , Update , Delete]
+
+[Undertsanding Arguments And Return Values]
+---------------------------------------------
+Arguments : it is Called As "Parameter Value" , it is passing into the function on Calling Time 
+            , After Passing The Argument(Parameter Value) It's Peeform A Specific task In the function.
+
+Return Values/Types: A "Return Value" is Called as Output Of function Who Send the Call back teh Function to 
+                     Another Function , A "Return Type" is Called as A Specific Data type of Function Will Actual
+                     Return By A Function...
+
+
+In Short :
+----------
+[1]NANR -: No Argument , No Return Type 
+[2]WANR -: With Argument Type , No Return Type 
+[3]NAWR -: No Argument , With Return Type
+[4]WAWR -: With Argument Type , With Return Type
+
+Key Features:
+--------------
+--> Modularity  :  Breaks The Program Into Smaller Parts ...
+--> Reusability :  You Can Use A Single Varibel or A Function Multiple Times...
+--> Readability :  You Can Make The Program Easy To Understand And Readabel...
+--> Debugging   :  Easy To Find And Fixe Errors...
+
+
+[1]NANR -: No Argument , No Return Type 
+----------------------------------------
+--> It's Not Take Any Argument And No Return Value 
+--> ex., void (void is Empty Function )
+
+Ex.,
+
+void function_name()//No Argument 
+{
+
+//No Return Value
+}

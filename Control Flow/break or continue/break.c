@@ -1,7 +1,6 @@
 //program to understand Break Statement...
 #include <stdio.h>
 
-
 void main()
 {
     //loop-1

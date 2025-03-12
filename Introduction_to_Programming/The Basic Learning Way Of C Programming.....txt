@@ -1,5 +1,5 @@
-[*The basic Learning Road-Map Of C Programing]
---------------------------------------------------------
+[The basic Learning Road-Map Of C Programing]
+---------------------------------------------
 
 1. Introduction to C Programming
 ---------------------------------------
@@ -31,7 +31,7 @@
    - Goto Statement: Introduce `goto` (while also discussing why it’s generally avoided).
 
 5. Functions
---------------
+------------
    - Introduction to Functions: Define what functions are and their purpose.
    - Function Declaration and Definition: Explain how to declare and define functions.
    - Function Parameters and Return Values: Discuss passing arguments by value and returning values.

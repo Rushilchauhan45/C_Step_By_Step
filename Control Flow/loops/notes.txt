@@ -65,6 +65,7 @@ while(//condition)
 while(1)
 {
     //Executable code
+    
 }
 
 ------------

@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-void main()
+void main()//WAWR
 {
     //variable declaration
     float num;
@@ -23,6 +23,5 @@ void main()
         {
             printf("\n%.2f is Negative....",num);
         }
-
     }
 }//end of main
